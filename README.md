@@ -1,4 +1,4 @@
-# Group10 Livability Analysis Dashboard
+# Interactive Excel Dashboard
 
 This project presents a data-driven dashboard evaluating the livability of U.S. states using key indicators such as happiness, taxation, climate, and environmental factors.
 
